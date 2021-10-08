@@ -1,0 +1,48 @@
+@font-face {
+    font-family: Signika-Bold;
+    src: url(fonts/Signika-Bold.ttf);
+}
+@font-face {
+    font-family: Signika-Light;
+    src: url(fonts/Signika-Light.ttf);
+}
+@font-face {
+    font-family: Signika-Medium;
+    src: url(fonts/Signika-Medium.ttf);
+}
+@font-face {
+    font-family: Signika-Regular;
+    src: url(fonts/Signika-Regular.ttf);
+}
+@font-face {
+    font-family: Signika-SemiBold;
+    src: url(fonts/Signika-SemiBold.ttf);
+}
+@font-face {
+    font-family: Signika-VariableFont_wght;
+    src: url(fonts/Signika-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: Geliat-ExtraBold;
+    src: url(fonts/Geliat-ExtraBold.otf);
+}
+@font-face {
+    font-family: Geliat-ExtraLight;
+    src: url(fonts/Geliat-ExtraLight.otf);
+}
+@font-face {
+    font-family: Lora-Bold;
+    src: url(fonts/Lora-Bold.ttf);
+}
+@font-face {
+    font-family: Lora-BoldItalic;
+    src: url(fonts/Lora-BoldItalic.ttf);
+}
+@font-face {
+    font-family: Varino-Normal;
+    src: url(fonts/Lora-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: Varino-Normal;
+    src: url(fonts/Varino-Normal.ttf);
+}
